@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConnectThree</string>
+    <string name="playagain">Play Again</string>
+    <string name="red_won">RED WON!!</string>
+    <string name="yellow_won">YELLOW WON!!</string>
+    <string name="tie">IT\'S A TIE</string>
+    <string name="empty_string"> </string>
+</resources>
